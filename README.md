@@ -1,6 +1,6 @@
 # Realtime_Digital_Filter_Design
 
-Realtime_Digital_Filter_Design is a powerful desktop application designed to empower users to craft custom digital filters in real-time through intuitive zeros-poles manipulation and frequency response visualization.
+Realtime Digital Filter Design is a powerful desktop application designed to empower users to craft custom digital filters in real-time through intuitive zeros-poles manipulation and frequency response visualization.
 
 ## Features
 
