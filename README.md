@@ -12,6 +12,8 @@ Realtime Digital Filter Design is a powerful desktop application designed to emp
   
 - **All-Pass Filter Correction:** Correct phase distortion by adding All-Pass filters, with options to choose from a library or create custom All-Pass filters.
 
+![Screenshot (386)](https://github.com/RanaHany10/Realtime_Digital_Filter_Design/assets/115092108/ca8cadb9-ee4e-4abc-82a3-ab455f58478c)
+
 ## Usage
 
 1. Clone the repository.
